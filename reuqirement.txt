@@ -1,0 +1,3 @@
+mmagic
+mmvc
+diffusers==0.24.0
